@@ -1,6 +1,6 @@
 /*
  * File: convert_strings.c
- * Authors: Bakare Rilwan & Ifada samuel
+ * Authors: Bakare Rilwan & Ifada samuel.
  */
 
 #include "main.h"
