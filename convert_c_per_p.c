@@ -1,6 +1,6 @@
 /*
  * File: convert_c_per_p.c
- * Authors: Ifada samuel & Bakare Rilwan
+ * Authors: Ifada samuel & Bakare Rilwan.
  */
 
 #include "main.h"
