@@ -1,6 +1,6 @@
 /*
  * File: convert_numbers.c
- * Authors: Ifada samuel & Bakare Rilwan
+ * Authors: Ifada samuel & Bakare Rilwan.
  */
 
 #include "main.h"
