@@ -1,5 +1,5 @@
 /**
- * Authors - Ifada samuel & Bakare Rilwan
+ * Authors - Ifada samuel & Bakare Rilwan.
  * @args: va_lists of arguement provided to printf
  * @output: A buffer_t struct.
  */
