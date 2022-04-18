@@ -1,5 +1,5 @@
 /**
- * Authors: Ifada samuel & Bakare Rilwan
+ * Authors: Ifada samuel & Bakare Rilwan.
  */
 
 #include "main.h"
