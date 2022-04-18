@@ -1,6 +1,6 @@
 /*
  * File: convert_base.c
- * Authors: Bakare Rilwan & Ifada samuel
+ * Authors: Bakare Rilwan & Ifada samuel.
  */
 
 #include "main.h"
